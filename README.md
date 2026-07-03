@@ -4,8 +4,6 @@ Este projeto é uma aplicação web interativa desenvolvida por **Maxine Louren�
 
 O sistema consiste em um gerenciador de filmes (CRUD), onde o usuário pode organizar sua própria lista de filmes favoritos, realizando cadastros, edições, exclusões e buscas de forma dinâmica e intuitiva. 
 
-*(Nota: Embora o projeto integre a disciplina de Back-End, o código deste repositório foca na interface de usuário - Front-End).*
-
 ## ✨ Funcionalidades
 
 - **Cadastrar Filmes:** Adicione novos filmes à sua lista informando Título, Gênero, Ano de lançamento e uma Nota (de 0 a 10).
